@@ -15,4 +15,4 @@ Implementa el código para realizar los siguientes gráficos en un notebook de j
 
    La gráfica debe verse así:
 
-  ![Texto alternativo](https://github.com/criemqui/Graf-2/blob/main/pie_chart.png)
+  ![Texto alternativo](https://github.com/criemqui/Graf-3/blob/main/graf%201.png)
