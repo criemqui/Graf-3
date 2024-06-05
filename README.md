@@ -15,4 +15,4 @@ Implementa el código para realizar los siguientes gráficos en un notebook de j
 
    La gráfica debe verse así:
 
-  ![Texto alternativo](https://github.com/criemqui/Graf-3/blob/main/graf%201.png)
+  ![Texto alternativo](https://github.com/criemqui/Graf-3/blob/main/tortas.png)
